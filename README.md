@@ -45,5 +45,6 @@ Perintah ini akan menggeser setiap huruf alfabet sebanyak 13 posisi ke kanan. Ka
 
 WEB EXPLOIT :  
 
+<img src="Screenshot 2026-09-09 021344.png" alt="Teks Alternatif" width="500"/>
 
 
