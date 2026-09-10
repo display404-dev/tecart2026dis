@@ -11,6 +11,7 @@ TOOLS : WSL KALI, Burp Suit, Git Hub, Python
 KALI
 
 <img src="Screenshot 2026-09-09 224745.png" alt="Teks Alternatif" width="500"/>
+<img src="Screenshot 2026-09-10 184136.png" alt="Teks Alternatif" width="500"/>
 
 Burp Suit
 
@@ -18,7 +19,7 @@ Burp Suit
 
 GitHub
 
-
+<img src="Screenshot 2026-09-10 184854.png" alt="Teks Alternatif" width="500"/>
 
 Python
 
@@ -41,3 +42,8 @@ step 4 : menggunakan command tr '()' '{}' untuk merubah semua simbol () menjadi 
 
 step ke 5 / terakhir : menggunakan command tr 'a-zA-Z' 'n-za-mN-ZA-M' yang berfungsi untuk mengenkripsi atau mendekripsi teks menggunakan metode ROT13 (Rotate 13). 
 Perintah ini akan menggeser setiap huruf alfabet sebanyak 13 posisi ke kanan. Karena total alfabet ada 26 huruf, jadi ketika kita menjalankan perintah ini dua kali pada teks yang sama, teks tersebut akan kembali ke bentuk aslinya.
+
+WEB EXPLOIT :  
+
+
+
