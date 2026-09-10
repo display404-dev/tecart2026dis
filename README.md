@@ -47,4 +47,19 @@ WEB EXPLOIT :
 
 <img src="Screenshot 2026-09-09 021344.png" alt="Teks Alternatif" width="500"/>
 
+**Langkah 1:** Salin *link* yang di berikan di chalange, kemudian buka *tools* Burp.
+
+**Langkah 2:** Setelah *tools* Burp terbuka, aktifkan fitur **"Intercept On"**, kemudian buka *browser* di burp.
+
+**Langkah 3:** Setelah halaman web berhasil terbuka, kembali ke *tools* Burp, kemudian pilih **"Forward All"** untuk meneruskan seluruh permintaan.
+
+**Langkah 4:** Selanjutnya, lakukan proses registrasi dengan mengisi data yang diperlukan pada halaman web.
+
+**Langkah 5:** Setelah proses registrasi selesai, kembali ke *tools* Burp, kemudian pilih **"Forward All"**. Setelah itu, kembali ke halaman web.
+
+**Langkah 6:** Selanjutnya, masukkan kode OTP pada kolom yang telah disediakan.
+
+**Langkah 7:** Setelah kode OTP dimasukkan, kembali ke *tools* Burp, kemudian hapus kode OTP tersebut.
+
+**Langkah 8:** Setelah kode OTP dihapus, pilih **"Forward All"** untuk meneruskan permintaan. Setelah proses selesai, key akan ditampilkan.
 
